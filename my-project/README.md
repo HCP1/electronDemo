@@ -1,7 +1,7 @@
 # my-project
 
 > An electron-vue project
-
+<!-- 1.node 版本为11 https://nodejs.org/en/blog/release/v11.7.0/。 -->
 #### Build Setup
 
 ``` bash
